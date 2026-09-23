@@ -50,73 +50,73 @@ https://notebinderapp.s3.amazonaws.com/index.html
 https://s3.amazonaws.com/notebinderapp/index.html
 
 DaydreamX
-s3.us-east-1.amazonaws.com/h7ww/index.html
-h7ww.s3.us-east-1.amazonaws.com/index.html
-h7ww.s3.amazonaws.com/index.html
+https://s3.us-east-1.amazonaws.com/h7ww/index.html
+https://h7ww.s3.us-east-1.amazonaws.com/index.html
+https://h7ww.s3.amazonaws.com/index.html
 
 Interstellar
-bhow.s3.us-east-1.amazonaws.com/index.html
-s3.amazonaws.com/bhow/index.html
-s3.us-east-1.amazonaws.com/bhow/index.html
+https://bhow.s3.us-east-1.amazonaws.com/index.html
+https://s3.amazonaws.com/bhow/index.html
+https://s3.us-east-1.amazonaws.com/bhow/index.html
 
 Utopia
-wcfg.s3.amazonaws.com/index.html
-wcfg.s3.us-east-1.amazonaws.com/index.html
-s3.amazonaws.com/wcfg/index.html
-s3.us-east-1.amazonaws.com/wcfg/index.html
+https://wcfg.s3.amazonaws.com/index.html
+https://wcfg.s3.us-east-1.amazonaws.com/index.html
+https://s3.amazonaws.com/wcfg/index.html
+https://s3.us-east-1.amazonaws.com/wcfg/index.html
 
 DogeUb
-s3ef.s3.amazonaws.com/index.html
-s3ef.s3.us-east-1.amazonaws.com/index.html
-s3ef.s3-external-1.amazonaws.com/index.html
-s3.amazonaws.com/s3ef/index.html
+https://s3ef.s3.amazonaws.com/index.html
+https://s3ef.s3.us-east-1.amazonaws.com/index.html
+https://s3ef.s3-external-1.amazonaws.com/index.html
+https://s3.amazonaws.com/s3ef/index.html
 
 Aurora 
-aurora.wib.ro
-aurora.chrismccartney.co.uk
-aurora.alisonball.com.au
+https://aurora.wib.ro
+https://aurora.chrismccartney.co.uk
+https://aurora.alisonball.com.au
 
 Voya
-voya.wib.ro
-voya.chrismccartney.co.uk
-voya.alisonball.com.au
+https://voya.wib.ro
+https://voya.chrismccartney.co.uk
+https://voya.alisonball.com.au
 
 StudyHub
-studyh.wib.ro
-studyh.chrismccartney.co.uk
-studyh.alisonball.com.au
+https://studyh.wib.ro
+https://studyh.chrismccartney.co.uk
+https://studyh.alisonball.com.au
 
 Stroberri
-stro.alisonball.com.au
-stro.wib.ro
-stro.chrismccartney.co.uk
+https://stro.alisonball.com.au
+https://stro.wib.ro
+https://stro.chrismccartney.co.uk
 
 Lunar 
-lr.wib.ro
-l.chrismccartney.co.uk
-utopia.alisonball.com.au
+https://lr.wib.ro
+https://l.chrismccartney.co.uk
+https://utopia.alisonball.com.au
 
 Utopia 
-utopia.wib.ro
-utopia.chrismccartney.co.uk
-utopia.alisonball.com.au
+https://utopia.wib.ro
+https://utopia.chrismccartney.co.uk
+https://utopia.alisonball.com.au
 
 Space 
-space.wib.ro
-space.chrismccartney.co.uk
+https://space.wib.ro
+https://space.chrismccartney.co.uk
 
 
 Triple T HD 
-tthd.wib.ro
-tthd.chrismccartney.co.uk
+https://tthd.wib.ro
+https://tthd.chrismccartney.co.uk
 
 CINERA 
-cinera.wib.ro
-cinera.chrismccartney.co.uk
+https://cinera.wib.ro
+https://cinera.chrismccartney.co.uk
 
 Solara
-solara.wib.ro
-solara.chrismccartney.co.uk
+https://solara.wib.ro
+https://solara.chrismccartney.co.uk
 
 
 
