@@ -28,77 +28,96 @@ https://cdn.jsdelivr.net/gh/hameslabybu-web/svg@5866557a754f7108f3ba3fbd3e289be9
 
 https://cdn.jsdelivr.net/gh/hameslabybu-web/svg@fac06db6a519895840daf68ffad03ca2e2949a6d/index.svg
 
-Solara
-https://solaraos.s3.amazonaws.com/index.html
-https://s3.amazonaws.com/solaraos/index.html
+TungTung
+theplayernation.s3.amazonaws.com/index.html
+s3.amazonaws.com/theplayernation/index.html
 
 StudyHub
-https://antixticy.s3.amazonaws.com/in...
-https://s3.amazonaws.com/antixticy/index.html
+antixticy.s3.amazonaws.com/index.html
+s3.amazonaws.com/antixticy/index.html
 
-TungTung
-https://ytvcsa.s3.us-east-1.amazonaws...
-https://ytvcsa.s3.us-east-1.amazonaws...
-https://ytvcsa.s3.amazonaws.com/index...
-
-DaydreamX 
-https://s3.amazonaws.com/h7ww/index.html
-
-Interstellar
-https://jkss.s3.amazonaws.com/index.html
-https://3.amazonaws.com/jkss/index.html
-
-DogeUb
-https://s3ef.s3.amazonaws.com/index.html
-https://s3.amazonaws.com/s3ef/index.html
+Solara
+solaraos.s3.amazonaws.com/index.html
+s3.amazonaws.com/solaraos/index.html
 
 Glim
-https://axk4.s3.amazonaws.com/index.html
+axk4.s3.amazonaws.com/index.html
+glimapp.s3.amazonaws.com/index.html
+s3.amazonaws.com/glimapp/index.html
 
 Kite
-https://s3.amazonaws.com/notebinderapp/index.html
-https://notebinderapp.s3.amazonaws.com/index.html
+notebinderapp.s3.amazonaws.com/index.html
+s3.amazonaws.com/notebinderapp/index.html
+
+DaydreamX
+s3.us-east-1.amazonaws.com/h7ww/index.html
+h7ww.s3.us-east-1.amazonaws.com/index.html
+h7ww.s3.amazonaws.com/index.html
+
+Interstellar
+bhow.s3.us-east-1.amazonaws.com/index.html
+s3.amazonaws.com/bhow/index.html
+s3.us-east-1.amazonaws.com/bhow/index.html
 
 Utopia
-https://utopia.alisonball.com.au
-https://utopia.wib.ro
-https://wcfg.s3.amazonaws.com/index.html
+wcfg.s3.amazonaws.com/index.html
+wcfg.s3.us-east-1.amazonaws.com/index.html
+s3.amazonaws.com/wcfg/index.html
+s3.us-east-1.amazonaws.com/wcfg/index.html
+
+DogeUb
+s3ef.s3.amazonaws.com/index.html
+s3ef.s3.us-east-1.amazonaws.com/index.html
+s3ef.s3-external-1.amazonaws.com/index.html
+s3.amazonaws.com/s3ef/index.html
 
 Aurora 
-https://aurora.wib.ro
-https://aurora.alisonball.com.au
+aurora.wib.ro
+aurora.chrismccartney.co.uk
+aurora.alisonball.com.au
 
 Voya
-https://voya.wib.ro
-https://voya.alisonball.com.au
+voya.wib.ro
+voya.chrismccartney.co.uk
+voya.alisonball.com.au
 
 StudyHub
-https://studyh.wib.ro
-https://studyh.alisonball.com.au
+studyh.wib.ro
+studyh.chrismccartney.co.uk
+studyh.alisonball.com.au
 
 Stroberri
-https://stro.alisonball.com.au
-https://stro.wib.ro
+stro.alisonball.com.au
+stro.wib.ro
+stro.chrismccartney.co.uk
 
 Lunar 
-https://lr.wib.ro
-https://l.chrismccartney.co.uk
+lr.wib.ro
+l.chrismccartney.co.uk
+utopia.alisonball.com.au
 
+Utopia 
+utopia.wib.ro
+utopia.chrismccartney.co.uk
+utopia.alisonball.com.au
 
 Space 
-https://space.wib.ro
-https://space.alisonball.com.au
+space.wib.ro
+space.chrismccartney.co.uk
 
 
 Triple T HD 
-Https://tthd.alisonball.com.au
-Https://tthd.wib.ro
+tthd.wib.ro
+tthd.chrismccartney.co.uk
 
 CINERA 
-https://cinera.wib.ro
-https://cinera.alisonball.com.au
+cinera.wib.ro
+cinera.chrismccartney.co.uk
 
 Solara
-https://solara.wib.ro
-https://solara.alisonball.com.au
+solara.wib.ro
+solara.chrismccartney.co.uk
+
+
+
 
