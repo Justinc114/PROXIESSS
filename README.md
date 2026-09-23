@@ -29,25 +29,25 @@ https://cdn.jsdelivr.net/gh/hameslabybu-web/svg@5866557a754f7108f3ba3fbd3e289be9
 https://cdn.jsdelivr.net/gh/hameslabybu-web/svg@fac06db6a519895840daf68ffad03ca2e2949a6d/index.svg
 
 TungTung
-theplayernation.s3.amazonaws.com/index.html
-s3.amazonaws.com/theplayernation/index.html
+https://theplayernation.s3.amazonaws.com/index.html
+https://s3.amazonaws.com/theplayernation/index.html
 
 StudyHub
-antixticy.s3.amazonaws.com/index.html
-s3.amazonaws.com/antixticy/index.html
+https://antixticy.s3.amazonaws.com/index.html
+https://s3.amazonaws.com/antixticy/index.html
 
 Solara
-solaraos.s3.amazonaws.com/index.html
-s3.amazonaws.com/solaraos/index.html
+https://solaraos.s3.amazonaws.com/index.html
+https://s3.amazonaws.com/solaraos/index.html
 
 Glim
-axk4.s3.amazonaws.com/index.html
-glimapp.s3.amazonaws.com/index.html
-s3.amazonaws.com/glimapp/index.html
+https://axk4.s3.amazonaws.com/index.html
+https://glimapp.s3.amazonaws.com/index.html
+https://s3.amazonaws.com/glimapp/index.html
 
 Kite
-notebinderapp.s3.amazonaws.com/index.html
-s3.amazonaws.com/notebinderapp/index.html
+https://notebinderapp.s3.amazonaws.com/index.html
+https://s3.amazonaws.com/notebinderapp/index.html
 
 DaydreamX
 s3.us-east-1.amazonaws.com/h7ww/index.html
