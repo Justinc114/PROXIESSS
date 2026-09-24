@@ -3,6 +3,20 @@ Proxies for school lmao you're welcome guys
 
 https://brosarookie.biocellerity.com
 
+https://aprilfools.doingtechnology.com
+
+https://quiteufew.emarking.cl
+
+https://alltalkgettyouhurt.nanobit.org
+
+https://poohshiesty.super-kassa.ru
+
+https://educationalrosin.soft-hard.ru
+
+https://gokuisaloser.soft-hard.ru
+
+https://hello.soft-hard.ru
+
 https://books.scottbaptist.com/
 
 https://lnaxyd.sbs/
