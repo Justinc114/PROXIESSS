@@ -1,5 +1,8 @@
 # PROXIESSS
 Proxies for school lmao you're welcome guys
+
+https://brosarookie.biocellerity.com
+
 https://books.scottbaptist.com/
 
 https://lnaxyd.sbs/
