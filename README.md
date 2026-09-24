@@ -1,7 +1,6 @@
 # PROXIESSS
 Proxies for school lmao you're welcome guys
 
-https://brosarookie.biocellerity.com
 
 https://aprilfools.doingtechnology.com
 
