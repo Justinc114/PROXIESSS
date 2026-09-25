@@ -1,6 +1,18 @@
 # PROXIESSS
 Proxies for school lmao you're welcome guys
 
+https://mikerowesoftazure.azure-cost-estimator.se/
+
+https://math.super-kassa.ru/
+
+https://cdn.jsdelivr.net/gh/PeteZah-G/copy-2/main.svg
+
+https://bro.brdistan.net/
+
+https://science.albrightscycling.com/
+
+https://cdn.jsdelivr.net/gh/pineapple-petezah/homework/main.svg
+
 
 https://aprilfools.doingtechnology.com
 
