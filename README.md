@@ -1,6 +1,14 @@
 # PROXIESSS
 Proxies for school lmao you're welcome guys
 
+https://sosa.centromariapolis.cl
+
+https://followmytiktok.centromariapolis.cl
+
+https://wegondoubleback.gyalsanglama.com.np/
+
+https://weup.casadotricolor.com.br/
+
 https://mikerowesoftazure.azure-cost-estimator.se/
 
 https://math.super-kassa.ru/
