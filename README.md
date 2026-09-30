@@ -152,8 +152,13 @@ https://cinera.chrismccartney.co.uk
 
 Solara
 https://solara.wib.ro
-https://solara.chrismccartney.co.uk
 
+https://educational-resources.top/
 
+https://educationalexplorations.org/
+
+https://learninghubspace.top/
+
+https://learninghubcenter.top/
 
 
