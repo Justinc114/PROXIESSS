@@ -151,7 +151,9 @@ https://cinera.wib.ro
 https://cinera.chrismccartney.co.uk
 
 Solara
-https://solara.wib.ro
+https://solara.wib.ro https://solara.chrismccartney.co.uk
+
+IDK what this is called 😭
 
 https://educational-resources.top/
 
