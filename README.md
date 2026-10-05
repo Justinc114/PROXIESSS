@@ -175,3 +175,5 @@ https://christiandior.freeto.us/
 https://thestorm.bsmart-solutions.com/
 
 https://minecraftlover.chickenkiller.com/
+
+Sunday: https://classroom10.portal67.workers.dev
