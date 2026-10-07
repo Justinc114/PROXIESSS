@@ -181,3 +181,7 @@ Sunday: https://classroom10.portal67.workers.dev
 Figure: https://figure-cloud.figure-softwares.workers.dev/
 
 https://figure-cloud.figure-backup.workers.dev/
+
+Opium: 
+
+https://storage.googleapis.com/opiumbest/index.html
