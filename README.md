@@ -185,3 +185,18 @@ https://figure-cloud.figure-backup.workers.dev/
 Opium: 
 
 https://storage.googleapis.com/opiumbest/index.html
+
+Ghost:
+
+https://6ab424f57d63c.site123.me/
+
+https://betterthananything.b-cdn.net/
+
+https://obviouslymathwork.b-cdn.net/
+
+https://onlyforschool.b-cdn.net/
+
+https://lightspeedusers.b-cdn.net/
+
+https://bestcloudgames.b-cdn.net/
+
