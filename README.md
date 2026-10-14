@@ -200,3 +200,6 @@ https://lightspeedusers.b-cdn.net/
 
 https://bestcloudgames.b-cdn.net/
 
+GTA: 5 (NEEDS A PROXY BTW!)
+https://gta5lol6.b-cdn.net/
+
