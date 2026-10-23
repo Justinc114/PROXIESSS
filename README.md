@@ -205,3 +205,12 @@ https://gta5lol6.b-cdn.net/
 
 Copper: https://copper.frostos.workers.dev/
 
+
+
+idk found ts on tiktok:
+
+https://kahoot.si - 2222 (thats the code btw)
+https://classlink.online - 0000 (code)
+https://studyingsmart.uk
+https://srtgarage.net
+
