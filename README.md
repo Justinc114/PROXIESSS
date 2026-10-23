@@ -207,7 +207,7 @@ Copper: https://copper.frostos.workers.dev/
 
 
 
-idk found ts on tiktok:
+Kiwi:
 
 https://kahoot.si - 2222 (thats the code btw)
 https://classlink.online - 0000 (code)
