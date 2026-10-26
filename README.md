@@ -107,4 +107,4 @@ https://studyingsmart.uk
 https://srtgarage.net
 
 
-4games: https://s3.amazonaws.com/tasize/index.html s3.amazonaws.com/vefoba/index.html s3.amazonaws.com/lazabe/index.html
+4games: https://s3.amazonaws.com/tasize/index.html https://s3.amazonaws.com/vefoba/index.html https://s3.amazonaws.com/lazabe/index.html
