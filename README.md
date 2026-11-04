@@ -99,3 +99,9 @@ Material:
 https://s3.amazonaws.com/tasize/index.html
 https://s3.amazonaws.com/vefoba/index.html
 https://s3.amazonaws.com/lazabe/index.html
+
+
+Mantle: (IT GOT PROXY LINKSS)
+https://sites.google.com/view/mantle-menu/
+https://mantle-menu.pages.dev/
+https://mantle-menu.mantleunblocked.workers.dev/
