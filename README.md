@@ -97,10 +97,12 @@ https://bestcloudgames.b-cdn.net/
 GTA: 5 (MIGHT NEED A PROXY BTW!)
 https://gta5lol6.b-cdn.net/
 
-Copper: https://copper.frostos.workers.dev/
+Copper:
+https://copper.frostos.workers.dev/
+https://thebestproxyforstudying.b-cdn.net/
+https://bestproxy.b-cdn.net/
 
 Kiwi:
-
 https://kahoot.si - 2222 (thats the code btw)
 https://classlink.online - 0000 (code)
 https://studyingsmart.uk
