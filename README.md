@@ -108,3 +108,5 @@ https://mantle-menu.mantleunblocked.workers.dev/
 
 Temu Discord 🥹:
 https://nationalstandardcalculator.vercel.app/ (code is 4+6-2 then press =)
+
+(rust mc) https://rust-minecraft.b-cdn.net/
