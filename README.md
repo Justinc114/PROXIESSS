@@ -113,3 +113,13 @@ https://nationalstandardcalculator.vercel.app/ (code is 4+6-2 then press =)
 
 Motion:
 https://motioneducation.vercel.app
+
+Flux:
+https://s3.us-east-2.amazonaws.com/cheatmshtypund/extra.svg?f3
+
+https://s3.us-east-2.amazonaws.com/aphistoryalgebra/extra.svg?f3
+
+https://s3.us-east-2.amazonaws.com/apbiologygeometry/extra.svg?f3
+
+https://apgeometryhistory.pages.dev/extra.svg?f3
+
