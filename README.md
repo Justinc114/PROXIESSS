@@ -81,7 +81,7 @@ https://lightspeedusers.b-cdn.net/
 https://bestcloudgames.b-cdn.net/
 
 GTA: 5 (MIGHT NEED A PROXY BTW!)
-https://gta5lol6.b-cdn.net/
+https://eta5.vercel.app
 
 Copper:
 https://copper.frostos.workers.dev/
