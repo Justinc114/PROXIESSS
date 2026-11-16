@@ -123,3 +123,6 @@ https://s3.us-east-2.amazonaws.com/apbiologygeometry/extra.svg?f3
 
 https://apgeometryhistory.pages.dev/extra.svg?f3
 
+
+Random ahh proxy: 
+https://s3.amazonaws.com/mathgrove/index.html
