@@ -1,4 +1,4 @@
-# PROXIESSS.
+0# PROXIESSS.
 Proxies for school lmao youre welcome guys
 
 Aurora:
@@ -126,3 +126,19 @@ https://apgeometryhistory.pages.dev/extra.svg?f3
 
 Random ahh proxy: 
 https://s3.amazonaws.com/mathgrove/index.html
+
+Rosin: https://astral-math.robot-armies.com
+https://astral-math.robonauts.net
+https://astral-math.robbieb.me.uk
+https://astral-math.happyrobotics.com
+https://astral-math.giantrobotfactory.com
+https://astral-math.robinwhitehead.com
+https://astral-math.pedrobottas.com.br
+https://astral-math.missouriprobate.biz
+https://astral-math.cueros-roblans.com.ar
+https://astral-math.anteroblue.com
+https://astral-math.photographs.gs
+https://astral-math.robbinsaviation.com
+https://astral-math.robot-agachado.com
+https://astral-math.robot-agachado.net
+https://astral-math.robot-agachado.org
