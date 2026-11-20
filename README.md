@@ -1,4 +1,4 @@
-0# PROXIESSS.
+PROXIESSS
 Proxies for school lmao youre welcome guys
 
 Aurora:
@@ -142,3 +142,6 @@ https://astral-math.robbinsaviation.com
 https://astral-math.robot-agachado.com
 https://astral-math.robot-agachado.net
 https://astral-math.robot-agachado.org
+
+
+99% prob blocked (Brainworks Proxy) https://brainworxedu.github.io/
